@@ -28,7 +28,7 @@
 
   <scm>
     <connection>scm:git:git://github.com/atlassian/${project.artifactId}.git</connection>
-    <developerConnection>scm:git:git@github.com:atlassian/${project.artifactId}.git</developerConnection>
+    <developerConnection>scm:git:ssh://git@github.com/atlassian/${project.artifactId}.git</developerConnection>
     <url>http://github.com/atlassian/${project.artifactId}/</url>
   </scm>
 
